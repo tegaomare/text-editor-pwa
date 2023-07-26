@@ -6,7 +6,7 @@
 
 The application is a web text editor where the user can create notes or code snippets with or without an internet connection and where the user can reliably retrieve them for later use. The integrated service worker and Cache API's ensure that the application will remain fully functional even without and active internet connection. This application allows the user to access visited pages even if the application is offline.
 
-🚀The application has been deployed to Heroku and the URL of the deployed application is:-
+🚀The application has been deployed to Heroku and the URL of the deployed application is:- https://pwatexteditor-cbc-7d93499f7992.herokuapp.com/
 
 ## Table of Contents
 
